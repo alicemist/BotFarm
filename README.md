@@ -1,2 +1,2 @@
 # BotFarm
-Fram application for bots
+Farm application for bots
